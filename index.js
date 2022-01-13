@@ -12,5 +12,7 @@ class Player {
         this.width = 100
         this.height = 100
     }
+
+    draw()
     
 }
