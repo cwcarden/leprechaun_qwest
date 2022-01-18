@@ -4,7 +4,6 @@ const context = canvas.getContext('2d');
 canvas.width = innerWidth;
 canvas.height =  innerHeight;
 
-
 //Setup Player
 class Player {
     constructor() {
@@ -27,4 +26,3 @@ class Player {
 }
 
 const player = new Player()
-player.draw()
