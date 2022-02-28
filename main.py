@@ -1,5 +1,5 @@
 import pygame, sys 
-#from settings import *
+from settings import *
 
 class Game:
     def __init__(self):
