@@ -16,7 +16,7 @@ class Game:
                     sys.exit()
                     
             self.screen.fill('black')
-            pygame.displya.update()
+            pygame.display.update()
             self.clock.tick(FPS)
             
 
